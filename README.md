@@ -6,3 +6,6 @@ Bu repo, tamamen kendi gelişimimi hedef alarak ve web geliştirme becerilerimi 
 - **McDonalds:** McDonald's web sitesinin bir klonudur. McDonald's Inc. ile herhangi bir bağlantısı yoktur. Tüm görseller ve markalar orijinal hak sahiplerine aittir.
 
 Bu projeler web tasarımı ve kullanıcı deneyimi (UX) gibi konularda bilgi ve deneyim edinmek için geliştirildi. Ayrıca, klonlama yöntemi ile orijinal sitelerin temel yapısını anlamaya ve kendi becerilerimi geliştirmeye odaklandım.
+
+> ⚠️ Bu projeler, hiçbir resmi marka ya da kurumla ilişkili değildir.  
+> Tüm görseller ve markalar, ilgili hak sahiplerine aittir.
