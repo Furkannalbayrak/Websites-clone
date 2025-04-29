@@ -1,23 +1,21 @@
 
 # Discord Clone
-Basit ve kullanıcı dostu bir arayüzle oluşturulmuş bir **Todo List** uygulamasıdır. HTML, CSS, JavaScript ile geliştirilmiş olup, localStorage desteğiyle görevlerinizi kalıcı hale getirir. Bu uygulama responsive tasarım ile tasarlanmış olup ek olarak Bootstrap ve Font Awesome kütüphaneleri kullanılarak stil ve ikonlarla zenginleştirilmiştir.
+Basit ve kullanıcı dostu bir arayüzle oluşturulmuş bir **Discord ana sayfa klonu** projesidir. Sadece HTML ve CSS kullanılarak geliştirilmiş olup, eğitim ve portfolyo amacıyla hazırlanmıştır.
+
+> ⚠️ Bu proje yalnızca eğitim amaçlı yapılmıştır. Discord Inc. ile hiçbir bağlantısı yoktur.  
+> Tüm görseller ve markalar, ilgili sahiplerine aittir.
 
 ## 🚀 Özellikler
 
-- Görev ekleme
-- Görev silme
-- Tüm görevleri temizleme
-- Görevler arasında anlık filtreleme (arama)
-- localStorage ile verilerin saklanması
-- Uyarı mesajları ile kullanıcıya geri bildirim
-- **Responsive tasarım**: Tüm ekran boyutlarında (mobil, tablet, masaüstü) uyumlu görünüm
+- HTML ve CSS kullanılarak oluşturulmuş birebir tasarım
+- Görsel içeriklerle desteklenen sade ve şık tasarım
+- Kolay anlaşılır yapı ve yorum satırlarıyla öğrenmeye açık kod yapısı
 
 ## 📂 Proje Yapısı
 
-- **index.html**: Uygulamanın arayüzünü ve form yapısını barındıran ana HTML dosyası
-- **style.css**: Sayfanın görünümünü şekillendiren tüm özel stilleri içeren dosya
-- **app.js**: Todo ekleme, silme, filtreleme ve localStorage işlemlerini yöneten JavaScript dosyası
-
+- **index.html**: Sayfanın temel yapısını oluşturan HTML dosyası
+- **style.css**: Tasarımı ve düzenlemeleri sağlayan tüm CSS stilleri
+- **discord.icon.png**: Projenin logosunu içeren resim
 
 ## 💻 Kullanılan Teknolojiler
 - HTML5
