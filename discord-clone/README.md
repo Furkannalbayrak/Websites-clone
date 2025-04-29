@@ -10,6 +10,7 @@ Basit ve kullanıcı dostu bir arayüzle oluşturulmuş bir **Discord ana sayfa 
 - HTML ve CSS kullanılarak oluşturulmuş birebir tasarım
 - Görsel içeriklerle desteklenen sade ve şık tasarım
 - Kolay anlaşılır yapı ve yorum satırlarıyla öğrenmeye açık kod yapısı
+- responsive tasarım
 
 ## 📂 Proje Yapısı
 
@@ -20,6 +21,7 @@ Basit ve kullanıcı dostu bir arayüzle oluşturulmuş bir **Discord ana sayfa 
 ## 💻 Kullanılan Teknolojiler
 - HTML5
 - CSS3
+- responsive tasarım
   
 
 ## 🛠 Kurulum ve Kullanım
