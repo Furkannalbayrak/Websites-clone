@@ -4,7 +4,7 @@ Bu repo, tamamen kendi gelişimimi hedef alarak ve web geliştirme becerilerimi 
 
 ## 📌 Proje Listesi
 - [Discord](discord-clone/)
-- [McDonalds](mcdonalds-clone/)
+- [McDonald's](mcdonalds-clone/)
 
 Her projeye **tıklayarak** detaylarına ulaşabilirsiniz!
 
